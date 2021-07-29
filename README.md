@@ -1,16 +1,38 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**gianluca-pettenon/gianluca-pettenon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianluca-pettenon&layout=compact&langs_count=7&theme=dark">
+</div>
 
-Here are some ideas to get you started:
+<div style="display: inline-block"><br>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" width="50" title="HTML5">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" width="50" title="CSS3">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="40" width="50" title="JavaScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" height="40" width="50" title="PHP">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" width="50" title="Python">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" width="50" title="MySQL">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="50" title="Oracle">
+</div><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline-block">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" height="40" width="50" title="Bootstrap">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" height="40" width="50" title="jQuery">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" height="40" width="50" title="AngularJS">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg" height="40" width="50" title="CodeIgniter">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zend/zend-plain.svg" height="40" width="50" title="Zend Framework">
+</div><br>
+    
+<div style="display: inline-block">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="40" width="50" title="Windows">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg" height="40" width="50" title="Linux">
+</div>
+
+##
+
+<div>
+    <a href="https://www.linkedin.com/in/gianluca-pettenon" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+</div>
+
+</div>
