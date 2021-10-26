@@ -26,6 +26,7 @@
 <div style="display: inline-block">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="40" width="50" title="Windows">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg" height="40" width="50" title="Linux">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" height="40" width="50" title="Docker">
 </div>
 
 ##
