@@ -31,10 +31,4 @@
 
 ##
 
-<div>
-                                                                                                                
-    <img src="https://komarev.com/ghpvc/?username=gianluca-pettenon&color=green" alt="Gianluca Pettenon" />
-    
-</div>
-
 </div>
