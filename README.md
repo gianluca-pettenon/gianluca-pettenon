@@ -30,11 +30,8 @@
 </div>
 
 ##
-
-    <div>
-                                                                                                                   
-<img src="https://komarev.com/ghpvc/?username=gianluca-pettenon&color=blue" alt="Gianluca Pettenon" />
+                                                                                                                 
+    <img src="https://komarev.com/ghpvc/?username=gianluca-pettenon&color=blue" alt="Gianluca Pettenon" />
         
-    </div>
     
 </div>
