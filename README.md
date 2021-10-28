@@ -32,7 +32,7 @@
 <br><hr><br>
 
 <div>
-    [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4575cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gianluca-pettenon/)](https://www.linkedin.com/in/gianluca-pettenon/)
+    <img src="https://img.shields.io/badge/-Linkedin-4575cc?style=flat-square&logo=Linkedin&logoColor=white" />
     <img src="https://komarev.com/ghpvc/?username=gianluca-pettenon&color=blue" alt="Gianluca Pettenon" />
 </div>                                                                                                             
     
