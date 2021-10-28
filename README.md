@@ -28,6 +28,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg" height="40" width="50" title="Linux">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" height="40" width="50" title="Docker">
 </div>
+    
+    ##
 
 <div>
     <img src="https://komarev.com/ghpvc/?username=gianluca-pettenon&color=blue" alt="Gianluca Pettenon" />
