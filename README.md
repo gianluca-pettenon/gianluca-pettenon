@@ -31,9 +31,9 @@
 
 ##
 
-<div>
+<div>   
     <a href="https://www.linkedin.com/in/gianluca-pettenon" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
         <img src="https://komarev.com/ghpvc/?username=gianluca-pettenon&color=green" alt="Gianluca Pettenon" />
     </a>
 </div>
