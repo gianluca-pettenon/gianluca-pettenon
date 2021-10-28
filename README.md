@@ -32,7 +32,8 @@
 <br><hr><br>
 
 <div>
-     <img src="https://img.shields.io/badge/-Linkedin-4575cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gianluca-pettenon/" />
+    [![Linkedin Badge](https://img.shields.io/badge/-Douglas%20Strey-4575cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglas-strey/)](https://www.linkedin.com/in/douglas-strey/)
+    <img src="https://img.shields.io/badge/-Linkedin-4575cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gianluca-pettenon/" />
     <img src="https://komarev.com/ghpvc/?username=gianluca-pettenon&color=yellow" alt="Gianluca Pettenon" />
 </div>                                                                                                             
     
