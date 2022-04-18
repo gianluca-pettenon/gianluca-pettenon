@@ -31,6 +31,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="40" width="50" title="Windows">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg" height="40" width="50" title="Linux">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" height="40" width="50" title="Docker">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg" height="40" width="50" title="Composer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" height="40" width="50" title="Yarn">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" height="40" width="50" title="npm">
 </div>
     
 <br><hr><br>
