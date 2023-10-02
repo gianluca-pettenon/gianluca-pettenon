@@ -6,35 +6,15 @@
 </div>
 
 <div style="display: inline-block"><br>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" width="50" title="HTML5">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" width="50" title="CSS3">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="40" width="50" title="JavaScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" height="40" width="50" title="PHP">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" width="50" title="Python">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" width="50" title="MySQL">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" title="PostgreSQL">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="50" title="Oracle">
+     <img align="center" height="40" src="https://devicons.dev.br/icons?icon=HTML,CSS,JavaScript,JQuery,Bootstrap,TypeScript,React,NextJS,Angular&size=30&theme=dark">
 </div><br>
 
 <div style="display: inline-block">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" height="40" width="50" title="Bootstrap">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" height="40" width="50" title="jQuery">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" height="40" width="50" title="AngularJS">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg" height="40" width="50" title="CodeIgniter">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zend/zend-plain.svg" height="40" width="50" title="Zend Framework">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" width="50" title="ReactJS">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40" width="50" title="TypeScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg" height="40" width="50" title="DiscordJS">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="40" width="50" title="Next.js">
+    <img align="center" height="40" src="https://devicons.dev.br/icons?icon=PHP,NodeJS,Swift,Symfony,Lua&size=30&theme=dark">
 </div><br>
     
 <div style="display: inline-block">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="40" width="50" title="Windows">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg" height="40" width="50" title="Linux">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" height="40" width="50" title="Docker">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg" height="40" width="50" title="Composer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" height="40" width="50" title="Yarn">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" height="40" width="50" title="npm">
+    <img align="center" height="40" src="https://devicons.dev.br/icons?icon=PostgreSQL,MySQL,Docker,Git,Linux,Wordpress,Cloudflare,Discord,Vercel,Netlify&size=30&theme=dark">
 </div>
     
 <br><hr><br>
