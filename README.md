@@ -10,11 +10,11 @@
 </div><br>
 
 <div style="display: inline-block">
-    <img align="center" height="40" src="https://devicons.dev.br/icons?icon=PHP,NodeJS,Swift,Symfony,Lua&size=30&theme=dark">
+    <img align="center" height="40" src="https://devicons.dev.br/icons?icon=PHP,NodeJS,Swift,Java,Symfony,Lua&size=30&theme=dark">
 </div><br>
     
 <div style="display: inline-block">
-    <img align="center" height="40" src="https://devicons.dev.br/icons?icon=PostgreSQL,MySQL,Docker,Git,Linux,Wordpress,Cloudflare,Discord,Vercel,Netlify&size=30&theme=dark">
+    <img align="center" height="40" src="https://devicons.dev.br/icons?icon=PostgreSQL,MySQL,Docker,RabbitMQ,Git,Linux,Wordpress,Cloudflare,Discord,Composer,Vercel,Netlify&size=30&theme=dark">
 </div>
     
 <br><hr><br>
