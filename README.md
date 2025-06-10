@@ -2,7 +2,7 @@
 
 <div>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianluca-pettenon&layout=compact&theme=dark&hide_border=true">
-    <img height="150em" src="https://lanyard.cnrad.dev/api/866649331984498688?borderRadius=5px&hideTimestamp=false&hideUser=false">
+    <img height="150em" src="https://lanyard.cnrad.dev/api/866649331984498688?theme=dark&borderRadius=5px&hideTimestamp=false&hideUser=false">
 </div>
 
 ###
@@ -64,8 +64,6 @@
   <img src="https://cdn.simpleicons.org/ionic/3880FF" height="40" alt="ionic logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zend/zend-original.svg" height="40" alt="zend logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/oracle/F80000" height="40" alt="oracle logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
   <img width="12" />
