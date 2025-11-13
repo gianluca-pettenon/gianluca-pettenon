@@ -9,7 +9,7 @@
 
 <p align="center">
   <h5>Frontend</h5>    
-  <img src="https://skillicons.dev/icons?i=nextjs,react,redux,tailwind,ts,discordjs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,redux,tailwind,ts,discordjs,jest&theme=dark" />
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 <p align="center">
   <h5>DevOps</h5>    
-  <img src="https://skillicons.dev/icons?i=docker,nginx,cloudflare,aws,git,githubactions,debian,ubuntu,jenkins&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,nginx,cloudflare,aws,git,githubactions,debian,ubuntu,jenkins,bash&theme=dark" />
 </p>
 
 ---
