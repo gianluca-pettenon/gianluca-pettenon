@@ -14,12 +14,17 @@
 
 <p align="center">
   <h5>Backend</h5>    
-  <img src="https://skillicons.dev/icons?i=php,java,nodejs,nestjs,symfony&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php,java,nodejs,nestjs,express,symfony&theme=dark" />
+</p>
+
+<p align="center">
+  <h5>Database</h5>    
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,supabase&theme=dark" />
 </p>
 
 <p align="center">
   <h5>DevOps</h5>    
-  <img src="https://skillicons.dev/icons?i=docker,nginx,aws,git,githubactions&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,nginx,cloudflare,aws,git,githubactions,debian,ubuntu,jenkins&theme=dark" />
 </p>
 
 ---
