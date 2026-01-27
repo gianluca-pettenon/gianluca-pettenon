@@ -1,47 +1,61 @@
 <div align="center">
 
-<div>
-    <!--<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianluca-pettenon&layout=compact&theme=dark&hide_border=true">
-    <img height="150em" src="https://lanyard.cnrad.dev/api/866649331984498688?theme=dark&borderRadius=5px&hideTimestamp=false&hideUser=false">-->
+# 👋 Hello, I'm Gianluca Pettenon
+
+### Senior Software Engineer
+
+[![Profile Views](https://komarev.com/ghpvc/?username=gianluca-pettenon&color=0891b2&style=flat-square&label=Profile+Views)](https://github.com/gianluca-pettenon)
+
 </div>
 
-###
+---
+
+## 🚀 About Me
+
+Senior Software Engineer with expertise in full-stack development, specializing in building scalable web applications and robust backend systems. Passionate about clean code, best practices, and delivering high-quality solutions that drive business value.
+
+- 🔭 Currently working on enterprise-level applications
+- 🌱 Always learning and exploring new technologies
+- 💡 Focused on performance optimization and scalable architecture
+- 🎯 Committed to writing maintainable and testable code
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <h5>Frontend</h5>    
-  <img src="https://skillicons.dev/icons?i=nextjs,react,redux,tailwind,ts,discordjs,jest,jquery,bootstrap,styledcomponents,tailwind&theme=dark" />
+  <strong>Frontend Development</strong><br/>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,redux,tailwind,ts,jest,jquery,bootstrap,styledcomponents&theme=dark" />
 </p>
 
 <p align="center">
-  <h5>Mobile</h5>    
+  <strong>Mobile Development</strong><br/>
   <img src="https://skillicons.dev/icons?i=react,ionic&theme=dark" />
 </p>
 
 <p align="center">
-  <h5>Backend</h5>    
+  <strong>Backend Development</strong><br/>
   <img src="https://skillicons.dev/icons?i=php,java,nodejs,nestjs,express,symfony,bun&theme=dark" />
 </p>
 
 <p align="center">
-  <h5>Database</h5>    
+  <strong>Database & ORM</strong><br/>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,supabase,hibernate,sequelize,prisma&theme=dark" />
 </p>
 
 <p align="center">
-  <h5>DevOps</h5>    
+  <strong>DevOps & Cloud</strong><br/>
   <img src="https://skillicons.dev/icons?i=docker,nginx,cloudflare,aws,git,githubactions,debian,ubuntu,jenkins,bash,heroku,vercel&theme=dark" />
 </p>
 
 ---
 
-<div>
-    <img src="https://komarev.com/ghpvc/?username=gianluca-pettenon&color=blue" />
-</div>
-
+<div align="center">
+  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gianluca-pettenon/gianluca-pettenon/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gianluca-pettenon/gianluca-pettenon/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gianluca-pettenon/gianluca-pettenon/output/pacman-contribution-graph.svg">
+  <img alt="Contribution Graph" src="https://raw.githubusercontent.com/gianluca-pettenon/gianluca-pettenon/output/pacman-contribution-graph.svg" width="100%">
 </picture>
-    
+
 </div>
