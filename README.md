@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hello, I'm Gianluca Pettenon
+# Gianluca Pettenon
 
-### Senior Software Engineer
+**Senior Software Engineer**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=gianluca-pettenon&color=0891b2&style=flat-square&label=Profile+Views)](https://github.com/gianluca-pettenon)
 
@@ -10,52 +10,41 @@
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-Senior Software Engineer with expertise in full-stack development, specializing in building scalable web applications and robust backend systems. Passionate about clean code, best practices, and delivering high-quality solutions that drive business value.
+I'm a **Senior Software Engineer** focused on building scalable full-stack applications for real-world products and companies. With a strong background across frontend, backend, mobile, and DevOps, I care deeply about **clean architecture, performance, and code that lasts**.
 
-- 🔭 Currently working on enterprise-level applications
-- 🌱 Always learning and exploring new technologies
-- 💡 Focused on performance optimization and scalable architecture
-- 🎯 Committed to writing maintainable and testable code
+Italian roots, Brazilian tech scene, I bring a European attention to craft and a startup-fueled drive to ship.
+
+- 🔭 Working on enterprise-level full-stack applications
+- 🏗️ Passionate about scalable architecture and system design
+- ✅ Committed to clean, testable, and maintainable code
+- ⚡ Always optimizing for performance and developer experience
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <strong>Frontend Development</strong><br/>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,redux,tailwind,ts,jest,jquery,bootstrap,styledcomponents&theme=dark" />
-</p>
+| Area | Technologies |
+|---|---|
+| **Frontend** | TypeScript · React · Next.js · Redux · Tailwind CSS · Styled Components · Bootstrap · Jest |
+| **Mobile** | React Native · Ionic |
+| **Backend** | Node.js · NestJS · Express · Bun · PHP · Symfony · Java |
+| **Database & ORM** | PostgreSQL · MySQL · SQLite · Prisma · Sequelize · Hibernate |
+| **DevOps & Cloud** | Docker · AWS · Nginx · Cloudflare · GitHub Actions · GitLab CI/CD · Jenkins |
+ 
+---
 
-<p align="center">
-  <strong>Mobile Development</strong><br/>
-  <img src="https://skillicons.dev/icons?i=react,ionic&theme=dark" />
-</p>
+## 🌍 Languages
 
-<p align="center">
-  <strong>Backend Development</strong><br/>
-  <img src="https://skillicons.dev/icons?i=php,java,nodejs,nestjs,express,symfony,bun&theme=dark" />
-</p>
-
-<p align="center">
-  <strong>Database & ORM</strong><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,supabase,hibernate,sequelize,prisma&theme=dark" />
-</p>
-
-<p align="center">
-  <strong>DevOps & Cloud</strong><br/>
-  <img src="https://skillicons.dev/icons?i=docker,nginx,cloudflare,aws,git,githubactions,debian,ubuntu,jenkins,bash,heroku,vercel&theme=dark" />
-</p>
+Portuguese · Italian · English
 
 ---
 
-<div align="center">
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gianluca-pettenon/gianluca-pettenon/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gianluca-pettenon/gianluca-pettenon/output/pacman-contribution-graph.svg">
-  <img alt="Contribution Graph" src="https://raw.githubusercontent.com/gianluca-pettenon/gianluca-pettenon/output/pacman-contribution-graph.svg" width="100%">
-</picture>
+## 🚀 I'm Building Now
 
-</div>
+**[Schemy](https://schemy.app)** is my current project a tool built to make database schema design faster and more intuitive for developers.
+
+---
+
+ ⭐️ **Fun fact:** I write code with the same obsession Italians put into espresso the process matters as much as the result.
