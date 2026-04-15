@@ -27,9 +27,10 @@ Italian roots, Brazilian tech scene, I bring a European attention to craft and a
 
 | Area | Technologies |
 |---|---|
-| **Frontend** | TypeScript · React · Next.js · Redux · Tailwind CSS · Styled Components · Bootstrap · Jest |
+| **Languages** | TypeScript · JavaScript · PHP · Java |
+| **Frameworks** | Next.js · NestJS · Express · Symfony · Bun · Ionic |
+| **Frontend** | React · Redux · Tailwind CSS · Styled Components · Bootstrap · Jest |
 | **Mobile** | React Native · Ionic |
-| **Backend** | Node.js · NestJS · Express · Bun · PHP · Symfony · Java |
 | **Database & ORM** | PostgreSQL · MySQL · SQLite · Prisma · Sequelize · Hibernate |
 | **DevOps & Cloud** | Docker · AWS · Nginx · Cloudflare · GitHub Actions · GitLab CI/CD · Jenkins |
  
