@@ -1,7 +1,6 @@
 <div align="center">
 
 # Gianluca Pettenon
-
 **Senior Software Engineer**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=gianluca-pettenon&color=0891b2&style=flat-square&label=Profile+Views)](https://github.com/gianluca-pettenon)
@@ -27,13 +26,14 @@ Italian roots, Brazilian tech scene, I bring a European attention to craft and a
 
 | Area | Technologies |
 |---|---|
-| **Languages** | TypeScript · JavaScript · PHP · Java |
-| **Frameworks** | Next.js · NestJS · Express · Symfony · Bun · Ionic |
-| **Frontend** | React · Redux · Tailwind CSS · Styled Components · Bootstrap · Jest |
+| **Languages** | TypeScript · JavaScript · PHP · Java · Go |
+| **Frameworks** | Next.js · Symfony · Bun · Ionic |
+| **Frontend** | React · Jest |
 | **Mobile** | React Native · Ionic |
-| **Database & ORM** | PostgreSQL · MySQL · SQLite · Prisma · Sequelize · Hibernate |
+| **Database** | PostgreSQL · MySQL · SQLite · Oracle · SQL Server · Redis |
+| **ORM** | Prisma · Sequelize · Hibernate · Doctrine |
 | **DevOps & Cloud** | Docker · AWS · Nginx · Cloudflare · GitHub Actions · GitLab CI/CD · Jenkins |
- 
+
 ---
 
 ## 🌍 Languages
@@ -48,4 +48,4 @@ Portuguese · Italian · English
 
 ---
 
- ⭐️ **Fun fact:** I write code with the same obsession Italians put into espresso the process matters as much as the result.
+⭐️ **Fun fact:** I write code with the same obsession Italians put into espresso the process matters as much as the result.
