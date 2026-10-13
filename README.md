@@ -22,26 +22,6 @@ Italian roots, Brazilian tech scene, I bring a European attention to craft and a
 
 ---
 
-## 🛠️ Tech Stack
-
-| Area | Technologies |
-|---|---|
-| **Languages** | TypeScript · JavaScript · PHP · Java · Go |
-| **Frameworks** | Next.js · Symfony · Bun · Ionic |
-| **Frontend** | React · Jest |
-| **Mobile** | React Native · Ionic |
-| **Database** | PostgreSQL · MySQL · SQLite · Oracle · SQL Server · Redis |
-| **ORM** | Prisma · Sequelize · Hibernate · Doctrine |
-| **DevOps & Cloud** | Docker · AWS · Nginx · Cloudflare · GitHub Actions · GitLab CI/CD · Jenkins |
-
----
-
-## 🌍 Languages
-
-Portuguese · Italian · English
-
----
-
 ## 🚀 I'm Building Now
 
 **[Schemy](https://schemy.app)** is my current project a tool built to make database schema design faster and more intuitive for developers.
