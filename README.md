@@ -1,6 +1,6 @@
 <div align="center">
 
-# Gianluca Pettenon
+## Gianluca Pettenon
 **Senior Software Engineer**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=gianluca-pettenon&color=0891b2&style=flat-square&label=Profile+Views)](https://github.com/gianluca-pettenon)
@@ -11,7 +11,8 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Senior Software Engineer** focused on building scalable full-stack applications for real-world products and companies. With a strong background across frontend, backend, mobile, and DevOps, I care deeply about **clean architecture, performance, and code that lasts**.
+I'm a **Senior Software Engineer** focused on building scalable full-stack applications for real-world products and companies.<br>
+With a strong background across frontend, backend, mobile, and DevOps, I care deeply about **clean architecture, performance, and code that lasts**.
 
 Italian roots, Brazilian tech scene, I bring a European attention to craft and a startup-fueled drive to ship.
 
@@ -19,12 +20,6 @@ Italian roots, Brazilian tech scene, I bring a European attention to craft and a
 - 🏗️ Passionate about scalable architecture and system design
 - ✅ Committed to clean, testable, and maintainable code
 - ⚡ Always optimizing for performance and developer experience
-
----
-
-## 🚀 I'm Building Now
-
-**[Schemy](https://schemy.app)** is my current project a tool built to make database schema design faster and more intuitive for developers.
 
 ---
 
